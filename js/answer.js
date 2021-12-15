@@ -70,6 +70,8 @@ if(option === "science"){
 // opinionBtn.onclick = alert("Your response has been submitted");
 
 
-
+function myFunction (){
+  alert("Your response has been recorded");
+}
 
 
