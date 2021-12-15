@@ -71,7 +71,7 @@ if(option === "science"){
 
 
 function myFunction (){
-  alert("Your response has been recorded");
+  window.alert("Your response has been recorded");
 }
 
 
